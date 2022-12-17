@@ -1,7 +1,4 @@
-'''
-Adnan Sulaiman
-20co13
-'''
+
 
 # Importing the libraries
 import numpy as np

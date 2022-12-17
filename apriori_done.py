@@ -1,7 +1,4 @@
-'''
-Adnan Sulaiman
-20co13
-'''
+
 
 import numpy as np
 # import pandas as pd
