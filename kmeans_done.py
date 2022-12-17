@@ -14,3 +14,6 @@ model.fit(X)
 
 plt.scatter(model.cluster_centers_[:, 0], model.cluster_centers_[:, 1], s=100, c='black')
 plt.show()
+
+
+# i have made changes in this file verify it
